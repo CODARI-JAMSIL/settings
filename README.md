@@ -5,6 +5,7 @@ http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/rel
 
 ### ■ Junit
 위 링크의 이클립스 버전 다운받으면 내장되어 있음
+
 [이클립스] - [개발하려는 프로젝트 루트에서 우클릭] - [Properties] - [Java Build Path] - [Libraries] - [Add Library] - [Junit] 하면 해당 프로젝트에서 Junit 사용가능
 
 ### ■ Eclemma 설치
