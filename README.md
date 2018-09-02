@@ -30,7 +30,7 @@
   %SONAR_SCANNER%\bin
   추가
 
-* sonar-project.properties 파일있는곳에서 sonar-scanner.bat 실행해서 로컬 SonarQube 서버에 분석데이터 
+* sonar-project.properties 파일있는곳에서 sonar-scanner.bat 실행해서 로컬 SonarQube 서버에 분석데이터  
 
 ### ■ Tomcat 다운로드
 * http://apache.mirror.cdnetworks.com/tomcat/tomcat-7/v7.0.90/bin/apache-tomcat-7.0.90-windows-x64.zip
