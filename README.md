@@ -11,6 +11,11 @@
 ### ■ Eclemma 설치
 * [이클립스] - [Help] - [Eclipse Marketplace] - [Eclemma 검색후 설치]
 
+### ■ Hamcrest 설정
+* [Window] - [Preferences] - [Java] - [Editor] - [Content Assist] - [Favorites] - [New Type]
+* org.junit.Assert 추가
+* org.hamcrest.CoreMathers 추가
+
 ### ■ SonarQube Server 다운로드
 * https://sonarsource.bintray.com/Distribution/sonarqube/sonarqube-7.3.zip
 
