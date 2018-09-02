@@ -1,7 +1,7 @@
 # Settings
 
 ### ■ Eclipse 다운로드
-http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/neon/3/eclipse-jee-neon-3-win32-x86_64.zip&mirror_id=1211
+1. http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/neon/3/eclipse-jee-neon-3-win32-x86_64.zip&mirror_id=1211
 
 ### ■ Junit
 1. 위 링크의 이클립스 버전 다운받으면 내장되어 있음
@@ -12,20 +12,20 @@ http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/rel
 1. [이클립스] - [Help] - [Eclipse Marketplace] - [Eclemma 검색후 설치]
 
 ### ■ SonarQube Server 다운로드
-https://sonarsource.bintray.com/Distribution/sonarqube/sonarqube-7.3.zip
+1. https://sonarsource.bintray.com/Distribution/sonarqube/sonarqube-7.3.zip
 
 ### ■ SonarQube Scanner 다운로드
-https://sonarsource.bintray.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-3.2.0.1227-windows.zip
+1. https://sonarsource.bintray.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-3.2.0.1227-windows.zip
 
-1. [내 PC] - [속성] - [고급 시스템 설정] - [환경변수] - [시스템 변수] - [새로만들기]
+2. [내 PC] - [속성] - [고급 시스템 설정] - [환경변수] - [시스템 변수] - [새로만들기]
   변수이름 SONAR_SCANNER
   변수값 sonar scanner 설치 위치
 
-2. [내 PC] - [속성] - [고급 시스템 설정] - [환경변수] - [시스템 변수] - [Path] - [편집] - [새로만들기]
+3. [내 PC] - [속성] - [고급 시스템 설정] - [환경변수] - [시스템 변수] - [Path] - [편집] - [새로만들기]
   %SONAR_SCANNER%\bin
   추가
 
-3. sonar-project.properties 파일있는곳에서 sonar-scanner.bat 실행해서 로컬 SonarQube 서버에 분석데이터 
+4. sonar-project.properties 파일있는곳에서 sonar-scanner.bat 실행해서 로컬 SonarQube 서버에 분석데이터 
 
 ### ■ Tomcat 다운로드
-http://apache.mirror.cdnetworks.com/tomcat/tomcat-7/v7.0.90/bin/apache-tomcat-7.0.90-windows-x64.zip
+1. http://apache.mirror.cdnetworks.com/tomcat/tomcat-7/v7.0.90/bin/apache-tomcat-7.0.90-windows-x64.zip
