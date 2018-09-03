@@ -34,3 +34,6 @@
 
 ### ■ Tomcat 다운로드
 * http://apache.mirror.cdnetworks.com/tomcat/tomcat-7/v7.0.90/bin/apache-tomcat-7.0.90-windows-x64.zip
+
+### ■ 아크로뱃 리더
+* https://get.adobe.com/kr/reader/download/?installer=Reader_DC_2018.009.20044_Korean_for_Windows&os=Windows%2010&browser_type=KHTML&browser_dist=Chrome&dualoffer=false&mdualoffer=true&cr=true&stype=7678&d=McAfee_Security_Scan_Plus&d=McAfee_Safe_Connect
