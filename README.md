@@ -1,7 +1,3 @@
-# 설문조사
-* 1일차 설문조사 https://goo.gl/forms/J1OmC42Q0nkeyqx02 
-* 4일차 설문조사 https://goo.gl/forms/CXMzRq1x239mKBso2
-* 회고 https://goo.gl/forms/wZJU9VrbEw6PoCd32
 # Settings
 
 ### ■ Eclipse 다운로드
